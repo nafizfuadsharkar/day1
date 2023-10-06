@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  background: rgb(52, 51, 51);
+  font-size: 50px;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+header {
+  background-color: gray;
+  height: 30px;
+}
+
+.nafiz {
+  display: block;
+  margin: 0px auto;
+}
+.tab {
+  display: block;
+  margin: 0px auto;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
